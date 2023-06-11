@@ -6,7 +6,7 @@ Mostly 3D printed camera slider for focus stacking macrophotography
 ## Summary
 Low-cost, mostly 3D printed automated camera slider for focus stacking macrophotography.
 
-![](images/macrorail-03.png)
+![](images/macrorail-03.jpg)
 ![](images/macrorail-01.png)
 ![](images/macrorail-02.png)
 
